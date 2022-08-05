@@ -1,0 +1,766 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://www.sanguosha.com/",
+            "path": "index.html",
+            "saved": true,
+            "size": 75585,
+            "children": [
+                {
+                    "url": "https://www.sanguosha.com/static/pc/dist/img/bg32.jpg",
+                    "path": "img/bg32.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/202208/62e78df61c524.png",
+                    "path": "img/62e78df61c524.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201902/5c7786a78a6a3.png",
+                    "path": "img/5c7786a78a6a3.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/static/pc/dist/img/logo.png?v=20200417",
+                    "path": "img/logo.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/static/pc/dist/img/begin.gif",
+                    "saved": false
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/202208/62e9f574c6c86.png",
+                    "path": "img/62e9f574c6c86.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201901/5c41b2009b368.jpg",
+                    "path": "img/5c41b2009b368.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201901/5c41b21c3cd02.jpg",
+                    "path": "img/5c41b21c3cd02.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/202207/62e3bbffb596e.png",
+                    "path": "img/62e3bbffb596e.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/202207/62e38a1321655.png",
+                    "saved": false
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/202207/62e389eec9160.png",
+                    "saved": false
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/202207/62da7bd8b65a8.png",
+                    "path": "img/62da7bd8b65a8.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/202204/62624944b01ae.jpg",
+                    "path": "img/62624944b01ae.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/static/pc/dist/img/sgs.jpg",
+                    "path": "img/sgs.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201808/5b728a0141ea6.jpg",
+                    "path": "img/5b728a0141ea6.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/static/pc/dist/img/ident1.jpg",
+                    "path": "img/ident1.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/static/pc/dist/img/ident3.jpg",
+                    "path": "img/ident3.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/static/pc/dist/img/ident2.jpg",
+                    "path": "img/ident2.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/static/pc/dist/img/ident4.jpg",
+                    "path": "img/ident4.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/static/pc/dist/img/general1.png",
+                    "path": "img/general1.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/static/pc/dist/img/general2.png",
+                    "path": "img/general2.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/static/pc/dist/img/general3.png",
+                    "path": "img/general3.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/static/pc/dist/img/general4.png",
+                    "saved": false
+                },
+                {
+                    "url": "https://www.sanguosha.com/static/pc/dist/img/general5.png",
+                    "path": "img/general5.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/static/pc/dist/img/art.jpg",
+                    "saved": false
+                },
+                {
+                    "url": "https://www.sanguosha.com/static/pc/dist/img/code.jpg",
+                    "path": "img/code.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201808/5b7288b65dbec.jpg",
+                    "path": "img/5b7288b65dbec.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201808/5b718ef7cb3d1.jpg",
+                    "path": "img/5b718ef7cb3d1.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201808/5b718f08f20ee.jpg",
+                    "path": "img/5b718f08f20ee.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201808/5b718f0f274e9.jpg",
+                    "path": "img/5b718f0f274e9.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201808/5b718eeda8ea7.jpg",
+                    "path": "img/5b718eeda8ea7.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201808/5b718f007feb8.jpg",
+                    "path": "img/5b718f007feb8.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201808/5b718f1502ec4.jpg",
+                    "saved": false
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201811/5be93a05c1c48.png",
+                    "path": "img/5be93a05c1c48.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201811/5be93a3324554.png",
+                    "saved": false
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201811/5be93a63c415a.png",
+                    "path": "img/5be93a63c415a.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201811/5be93aa9b1b9c.png",
+                    "path": "img/5be93aa9b1b9c.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201811/5be93ad3a0b78.png",
+                    "path": "img/5be93ad3a0b78.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201811/5be93b02e1d1a.png",
+                    "saved": false
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201811/5be92b5576363.png",
+                    "saved": false
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201811/5be92b44d4f30.png",
+                    "path": "img/5be92b44d4f30.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201811/5be92ae8c0f2f.png",
+                    "path": "img/5be92ae8c0f2f.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201811/5be92a198f76f.png",
+                    "path": "img/5be92a198f76f.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201811/5be929726d274.png",
+                    "path": "img/5be929726d274.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201811/5be92a81e1ca5.png",
+                    "path": "img/5be92a81e1ca5.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201811/5be943f3ec175.png",
+                    "path": "img/5be943f3ec175.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201811/5be94464b6f98.png",
+                    "path": "img/5be94464b6f98.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201811/5be944b67c59c.png",
+                    "path": "img/5be944b67c59c.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201811/5be944d36015e.png",
+                    "path": "img/5be944d36015e.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201811/5be944ef109cb.png",
+                    "path": "img/5be944ef109cb.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201811/5be94437278c1.png",
+                    "saved": false
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201808/5b7192ecca7f0.jpg",
+                    "path": "img/5b7192ecca7f0.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201808/5b724144c8de6.jpg",
+                    "path": "img/5b724144c8de6.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201808/5b7241d187107.jpg",
+                    "path": "img/5b7241d187107.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201808/5b7242af1be16.jpg",
+                    "saved": false
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201808/5b72433c51c7f.jpg",
+                    "saved": false
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201808/5b7243cd5d615.jpg",
+                    "path": "img/5b7243cd5d615.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201808/5b72442f3f63c.jpg",
+                    "path": "img/5b72442f3f63c.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201809/5b971e750e5b1.jpg",
+                    "path": "img/5b971e750e5b1.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201809/5b8d041db423c.png",
+                    "path": "img/5b8d041db423c.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201808/5b7d0573816fa.jpg",
+                    "saved": false
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201808/5b7254f8d86ac.jpg",
+                    "path": "img/5b7254f8d86ac.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201808/5b724dbf27323.jpg",
+                    "path": "img/5b724dbf27323.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201808/5b724d5a438eb.jpg",
+                    "path": "img/5b724d5a438eb.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201808/5b7247c5754be.jpg",
+                    "path": "img/5b7247c5754be.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201909/5d7f45dbb8047.jpg",
+                    "path": "img/5d7f45dbb8047.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201808/5b7d015437da9.jpg",
+                    "path": "img/5b7d015437da9.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201808/5b7d016b07b57.jpg",
+                    "path": "img/5b7d016b07b57.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201808/5b7cf7f94eb1f.jpg",
+                    "path": "img/5b7cf7f94eb1f.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201808/5b7cf7dfa3a7e.jpg",
+                    "path": "img/5b7cf7dfa3a7e.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201808/5b7cf7b35c107.jpg",
+                    "path": "img/5b7cf7b35c107.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/uploads/201808/5b7cfac13da3e.jpg",
+                    "path": "img/5b7cfac13da3e.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/static/pc/dist/img/bg33.jpg",
+                    "path": "img/bg33.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/static/pc/dist/img/wen.png",
+                    "path": "img/wen.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/static/pc/dist/img/jing.png",
+                    "path": "img/jing.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/static/pc/dist/img/gong.png",
+                    "path": "img/gong.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/img/web/youxidzbq.png",
+                    "path": "img/youxidzbq.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/static/pc/dist/js/lib/jquery.js",
+                    "path": "js/jquery.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://web.sanguosha.com/sgsCensus/startup.php",
+                    "path": "js/startup.js",
+                    "saved": true,
+                    "size": 5439,
+                    "children": []
+                },
+                {
+                    "url": "https://www.sanguosha.com/static/pc/dist/js/pages/index-420153d293.js",
+                    "saved": false
+                },
+                {
+                    "url": "https://www.sanguosha.com/static/pc/dist/css/pages/index-4bbe30b073.css?v=20190320",
+                    "path": "css/index-4bbe30b073.css",
+                    "saved": true,
+                    "size": 49045,
+                    "children": [
+                        {
+                            "url": "https://www.sanguosha.com/static/pc/img/icon.63105faa86.png",
+                            "path": "img/icon.63105faa86.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.sanguosha.com/static/pc/dist/img/bg1.jpg?1650e5c4a0c",
+                            "path": "img/bg1.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.sanguosha.com/static/pc/dist/img/bg2.jpg?1650e60680f",
+                            "path": "img/bg2.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.sanguosha.com/static/pc/dist/img/bg3.jpg?165c7ee7129",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://www.sanguosha.com/static/pc/dist/img/bg4.jpg?1650e61e96e",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://www.sanguosha.com/static/pc/dist/img/bg5.jpg?1650e63a1f0",
+                            "path": "img/bg5.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.sanguosha.com/static/pc/dist/img/nav.png?1650ccfce34",
+                            "path": "img/nav.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.sanguosha.com/static/pc/dist/img/gen.png?1650e9bcff5",
+                            "path": "img/gen.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.sanguosha.com/static/pc/dist/img/start.jpg?164e8ff9ee3",
+                            "path": "img/start.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.sanguosha.com/static/pc/dist/img/fade.png?1650ccfc660",
+                            "path": "img/fade.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.sanguosha.com/static/pc/dist/img/adver1.jpg?164d056e9ef",
+                            "path": "img/adver1.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.sanguosha.com/static/pc/dist/img/adver2.jpg?164d05755f4",
+                            "path": "img/adver2.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.sanguosha.com/static/pc/dist/img/title.jpg?164e93134aa",
+                            "path": "img/title.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.sanguosha.com/static/pc/dist/img/shenfen.png?1650ccfce30",
+                            "path": "img/shenfen.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.sanguosha.com/static/pc/dist/img/line.png?1650ccfc660",
+                            "path": "img/line.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.sanguosha.com/static/pc/dist/img/gonglue.png?165a325e46b",
+                            "path": "img/gonglue.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.sanguosha.com/static/pc/dist/img/footer.jpg?164f3c4fdf2",
+                            "path": "img/footer.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.sanguosha.com/static/pc/dist/img/ing.png?1650ccfc660",
+                            "path": "img/ing.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.sanguosha.com/static/pc/dist/img/end.png?1650ccfc660",
+                            "path": "img/end.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.sanguosha.com/static/pc/dist/img/download/bk.png",
+                            "path": "img/bk.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.sanguosha.com/static/pc/dist/img/play.png?164e8ff9ee3",
+                            "path": "img/play.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.sanguosha.com/static/pc/dist/img/close.png?164e8ff9ee3",
+                            "path": "img/close.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.sanguosha.com/static/pc/dist/img/link.png",
+                            "path": "img/link.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.sanguosha.com/static/pc/dist/img/art_title.png",
+                            "path": "img/art_title.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://www.sanguosha.com/favicon.ico",
+                    "saved": false
+                },
+                {
+                    "url": "https://www.sanguosha.com/static/pc/dist/video/index.mp4",
+                    "saved": false
+                }
+            ]
+        }
+    ],
+    "alias": "www-sanguosha-com-xrjevnow",
+    "info": {
+        "remark": [],
+        "title": "《三国杀Online》官方网站_风靡全球的游卡社交桌游_星火燎原重燃三国",
+        "domain": "www.sanguosha.com",
+        "origin": "https://www.sanguosha.com",
+        "ip": "61.161.9.98",
+        "main": "index.html",
+        "url": "https://www.sanguosha.com/",
+        "totalSize": "130 kB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://www.sanguosha.com/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "https://www.sanguosha.com/",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Fri, 05 Aug 2022 03:06:48 GMT",
+                "content-type": "text/html; charset=UTF-8",
+                "access-control-allow-origin": "*",
+                "access-control-allow-headers": "X-Requested-With",
+                "access-control-allow-methods": "GET,POST,OPTIONS",
+                "x-cache-lookup": "Cache Miss, Hit From Upstream Cluster, Cache Miss",
+                "transfer-encoding": "chunked",
+                "x-nws-log-uuid": "16330112101152521421",
+                "connection": "close"
+            }
+        },
+        "time": {
+            "start": "2022-08-05T03:06:48.137Z",
+            "end": "2022-08-05T03:11:33.214Z"
+        }
+    },
+    "options": {
+        "url": "https://www.sanguosha.com/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}
